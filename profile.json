@@ -1,0 +1,128 @@
+{
+  "name": "Derrick M. Gowen, MBA",
+  "location": "Novi, Michigan, United States",
+  "search_preferences": {
+    "preferred_locations": [
+      "Michigan",
+      "Remote U.S."
+    ],
+    "target_levels": [
+      "Vice President",
+      "Senior Vice President",
+      "General Manager",
+      "Division President",
+      "President",
+      "Executive Director at very large enterprises"
+    ],
+    "target_domains": [
+      "automotive",
+      "commercial vehicle",
+      "industrial technology",
+      "connected vehicle",
+      "IoT",
+      "technical sales",
+      "application engineering",
+      "product support",
+      "customer success/support",
+      "global business development",
+      "product strategy",
+      "technical commercial leadership"
+    ],
+    "compensation_strategy": {
+      "recovery_threshold": 210000,
+      "meaningful_upgrade": 250000,
+      "bank_territory": 300000,
+      "no_ceiling": true
+    }
+  },
+  "current_position": {
+    "company": "Accurate Technologies, Inc.",
+    "title": "Vice President of Product Support",
+    "since": "2024-08",
+    "scope": [
+      "Business processes related to product development, product management and product support",
+      "Training",
+      "Customer satisfaction",
+      "Sales operations"
+    ]
+  },
+  "career_progression": [
+    {
+      "title": "VP, Sales, Business Development & Application Engineering",
+      "dates": "2024-01 to 2024-08"
+    },
+    {
+      "title": "VP, Sales, Marketing, Application Engineering & Business Development",
+      "dates": "2020-01 to 2024-01",
+      "scope": "Head of all sales offices, global marketing, global application engineering and global business development ventures."
+    },
+    {
+      "title": "VP, Global Business Development",
+      "dates": "2018-02 to 2020-01",
+      "scope": "Head of ATI USA operations, satellite-office liaison and new-market expansion including China and South Korea."
+    },
+    {
+      "title": "Director, Business Development",
+      "dates": "2015-10 to 2018-02",
+      "scope": "New opportunities in existing/new markets; led Asia-Pacific resources focused on China and South Korea."
+    },
+    {
+      "title": "Director, Application Engineering",
+      "dates": "2012-05 to 2015-10",
+      "scope": "Global management of customer-support standards/operations and global new-business development."
+    },
+    {
+      "title": "Applications Engineering Manager",
+      "dates": "2005-03 to 2012-05",
+      "scope": "Led engineers performing customer support, testing, training, demonstrations and pre-sales technical work."
+    }
+  ],
+  "prior_engineering": {
+    "company": "International Truck and Engine Corporation / Navistar",
+    "dates": "1998-06 to 2005-03",
+    "areas": [
+      "Vehicle integration",
+      "Electrical systems",
+      "Rapid prototyping",
+      "Engineering operations",
+      "Heavy/light duty diesel powertrain integration",
+      "CAN SAE J1939",
+      "CAN CCP/XCP",
+      "MATLAB/dSPACE",
+      "ETAS INCA",
+      "ATI VISION",
+      "Electrical interfaces and schematics",
+      "Cross-functional prototype support and troubleshooting"
+    ]
+  },
+  "education": [
+    "MBA, Keller Graduate School of Management, 2005; Graduate Certificate in Project Management",
+    "BSEE, Illinois Institute of Technology, 2001; concentration in Computer Systems"
+  ],
+  "strengths": [
+    "Rare engineering-to-commercial executive progression",
+    "Global sales, marketing, business development and application-engineering leadership",
+    "Automotive/vehicle electrical and controls credibility",
+    "Customer-facing technical leadership and product support",
+    "Global expansion, including China and South Korea",
+    "Ability to bridge technical teams, customers, product functions and commercial leadership"
+  ],
+  "known_evidence_gaps": [
+    "Quantified P&L responsibility",
+    "Revenue/bookings/quota ownership",
+    "Team-size and organizational-scale metrics",
+    "Named major account/deal wins",
+    "Product portfolio financial scale",
+    "Quantified customer-support outcomes"
+  ],
+  "scoring_dimensions": {
+    "screening": "ATS/recruiter fit based on visible qualifications and keywords",
+    "capability": "Ability to perform the work independent of wording",
+    "culture_workstyle": "Industry/function/operating-model fit; not employee sentiment",
+    "technical_fit": "Adjacency to Derrick's engineering and technical-commercial background",
+    "level_scope": "Appropriateness versus current VP-level scope",
+    "money": "Posted compensation relative to $210K recovery, $250K upgrade and $300K+ bank thresholds",
+    "overall_fit": "Weighted holistic fit",
+    "priority": "Apply-order score combining fit, money, level and location"
+  }
+}
