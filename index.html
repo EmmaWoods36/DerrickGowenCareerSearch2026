@@ -365,7 +365,6 @@ tr:hover td{background:#eaf1ff}
 }
 
 </style>
-<script src="tracker-config.js"></script>
 </head>
 <body>
 <div class="wrap">
@@ -525,7 +524,7 @@ tr:hover td{background:#eaf1ff}
       <button class="ai-btn secondary" id="manualAddBtn">ADD MANUALLY</button>
     </div>
     <div class="ai-note">
-      AI assessment is GitHub-native: the button opens a pre-filled repository request; a GitHub Action fetches the posting, compares it with <code>profile.json</code>, assigns screening/capability/culture/fit/money scores, writes the assessed role into <code>jobs.json</code>, and the live page picks it up automatically. Derrick does not edit code.
+      AI assessment is GitHub-native and requires no separate configuration file: the button auto-detects the repository on GitHub Pages and opens a pre-filled repository request; a GitHub Action fetches the posting, compares it with <code>profile.json</code>, assigns screening/capability/culture/fit/money scores, writes the assessed role into <code>jobs.json</code>, and the live page picks it up automatically. Derrick does not edit code.
     </div>
     <div class="github-action-note">
       <b>Privacy:</b> application status, salary asked, interview notes, and offer details are stored in Derrick’s browser by default so a public GitHub Pages repo does not expose them. The public repo only needs job postings, fit scores, and live-open status.
@@ -550,8 +549,12 @@ function repoInfo(){
     const repo=location.pathname.split('/').filter(Boolean)[0];
     if(owner&&repo)return{owner,repo};
   }
-  const cfg=window.TRACKER_CONFIG||{};
-  if(cfg.githubOwner&&cfg.githubRepo)return{owner:cfg.githubOwner,repo:cfg.githubRepo};
+  // Optional custom-domain fallback via URL query params:
+  // ?githubOwner=USERNAME&githubRepo=REPOSITORY
+  const params=new URLSearchParams(location.search);
+  const owner=params.get('githubOwner');
+  const repo=params.get('githubRepo');
+  if(owner&&repo)return{owner,repo};
   return null;
 }
 function requestAiAssessment(){
@@ -560,7 +563,7 @@ function requestAiAssessment(){
   if(!url){alert('Paste the job link first.');return}
   const repo=repoInfo();
   if(!repo){
-    alert('AI assessment activates after this is published on GitHub Pages, or after githubOwner/githubRepo are set in tracker-config.js.');
+    alert('AI assessment activates automatically after this is published on GitHub Pages.');
     return;
   }
   const payload={job_url:url,user_note:note,requested_at:new Date().toISOString()};
