@@ -3,7 +3,7 @@
     "candidate": "Derrick Gowen, MBA",
     "version": 6,
     "generated_at": "2026-09-07T18:02:00-05:00",
-    "scheduler_last_run_at": "2026-10-22T04:39:59.618807+00:00",
+    "scheduler_last_run_at": "2026-10-22T17:08:04.108985+00:00",
     "audit_cadence": "Priority roles daily; other open roles every 3 days; GitHub HTTP/content check every 12 hours",
     "tracked_roles": 60,
     "open_actionable": 59,
@@ -53,7 +53,7 @@
       "verification_color": "green",
       "verification_note": "Automated HTTP/content check passed; no definitive closure signal found.",
       "source_group": "Original 30",
-      "last_checked_iso": "2026-10-22T04:39:47.628724+00:00",
+      "last_checked_iso": "2026-10-22T17:07:49.965728+00:00",
       "last_checked_display": "Sep 7, 2026 · 6:02 PM CT",
       "job_id": "DG-001",
       "source_wave": "Original 30",
@@ -79,12 +79,12 @@
       "audit_timestamp": "2026-09-07T18:02:00-05:00",
       "record_audited_at": "2026-09-07T18:02:00-05:00",
       "posting_status": "OPEN_VERIFIED",
-      "status_checked_at": "2026-10-22T04:39:47.628724+00:00",
+      "status_checked_at": "2026-10-22T17:07:49.965728+00:00",
       "status_check_source": "GitHub Action HTTP/content check",
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:47.628724+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:49.965728+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -108,7 +108,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:47.628724+00:00",
+      "last_http_check_at": "2026-10-22T17:07:49.965728+00:00",
       "last_http_status": 200,
       "auto_check_state": "OPEN_HTTP_OK"
     },
@@ -180,7 +180,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:47.992689+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:50.714631+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -204,7 +204,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:47.992689+00:00",
+      "last_http_check_at": "2026-10-22T17:07:50.714631+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -276,7 +276,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:48.187157+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:50.967923+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -300,7 +300,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:48.187157+00:00",
+      "last_http_check_at": "2026-10-22T17:07:50.967923+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -372,7 +372,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:48.378362+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:51.201437+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -396,7 +396,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:48.378362+00:00",
+      "last_http_check_at": "2026-10-22T17:07:51.201437+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -468,7 +468,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:48.587829+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:51.433747+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -492,7 +492,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:48.587829+00:00",
+      "last_http_check_at": "2026-10-22T17:07:51.433747+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -565,7 +565,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:48.787699+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:51.687011+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -589,7 +589,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:48.787699+00:00",
+      "last_http_check_at": "2026-10-22T17:07:51.687011+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -662,7 +662,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:48.973682+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:51.958266+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -686,7 +686,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:48.973682+00:00",
+      "last_http_check_at": "2026-10-22T17:07:51.958266+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -759,7 +759,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:49.176359+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:52.277553+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -783,7 +783,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:49.176359+00:00",
+      "last_http_check_at": "2026-10-22T17:07:52.277553+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -856,7 +856,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:49.332609+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:52.526026+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -880,7 +880,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:49.332609+00:00",
+      "last_http_check_at": "2026-10-22T17:07:52.526026+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -952,7 +952,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:49.407183+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:52.664531+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -976,7 +976,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:49.407183+00:00",
+      "last_http_check_at": "2026-10-22T17:07:52.664531+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1049,7 +1049,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:49.575716+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:52.900614+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -1073,7 +1073,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:49.575716+00:00",
+      "last_http_check_at": "2026-10-22T17:07:52.900614+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1145,7 +1145,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:49.754849+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:53.146266+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -1169,7 +1169,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:49.754849+00:00",
+      "last_http_check_at": "2026-10-22T17:07:53.146266+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1241,7 +1241,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:49.907351+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:53.283259+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -1265,7 +1265,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:49.907351+00:00",
+      "last_http_check_at": "2026-10-22T17:07:53.283259+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1430,7 +1430,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:50.081977+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:53.521303+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -1454,7 +1454,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:50.081977+00:00",
+      "last_http_check_at": "2026-10-22T17:07:53.521303+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1527,7 +1527,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:50.273311+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:53.736587+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -1551,7 +1551,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:50.273311+00:00",
+      "last_http_check_at": "2026-10-22T17:07:53.736587+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1623,7 +1623,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:50.465186+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:53.871832+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -1647,7 +1647,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:50.465186+00:00",
+      "last_http_check_at": "2026-10-22T17:07:53.871832+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1720,7 +1720,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:50.613297+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:54.015743+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -1744,7 +1744,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:50.613297+00:00",
+      "last_http_check_at": "2026-10-22T17:07:54.015743+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1816,7 +1816,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:50.803954+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:54.225405+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -1840,7 +1840,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:50.803954+00:00",
+      "last_http_check_at": "2026-10-22T17:07:54.225405+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1913,7 +1913,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:50.963064+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:54.528352+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -1937,7 +1937,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:50.963064+00:00",
+      "last_http_check_at": "2026-10-22T17:07:54.528352+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -1979,7 +1979,7 @@
       "verification_color": "green",
       "verification_note": "Automated HTTP/content check passed; no definitive closure signal found.",
       "source_group": "Original 30",
-      "last_checked_iso": "2026-10-22T04:39:51.138053+00:00",
+      "last_checked_iso": "2026-10-22T17:07:54.661930+00:00",
       "last_checked_display": "Sep 7, 2026 · 3:40 PM CT",
       "job_id": "DG-021",
       "source_wave": "Original 30",
@@ -2005,12 +2005,12 @@
       "audit_timestamp": "2026-09-07T15:40:00-05:00",
       "record_audited_at": "2026-09-07T15:40:00-05:00",
       "posting_status": "OPEN_VERIFIED",
-      "status_checked_at": "2026-10-22T04:39:51.138053+00:00",
+      "status_checked_at": "2026-10-22T17:07:54.661930+00:00",
       "status_check_source": "GitHub Action HTTP/content check",
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:51.138053+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:54.661930+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2034,7 +2034,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:51.138053+00:00",
+      "last_http_check_at": "2026-10-22T17:07:54.661930+00:00",
       "last_http_status": 200,
       "auto_check_state": "OPEN_HTTP_OK"
     },
@@ -2106,7 +2106,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:52.199168+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:55.911193+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2130,7 +2130,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:52.199168+00:00",
+      "last_http_check_at": "2026-10-22T17:07:55.911193+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -2202,7 +2202,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:52.396917+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:56.171512+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2226,7 +2226,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:52.396917+00:00",
+      "last_http_check_at": "2026-10-22T17:07:56.171512+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -2298,7 +2298,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:52.565358+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:56.313852+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2322,7 +2322,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:52.565358+00:00",
+      "last_http_check_at": "2026-10-22T17:07:56.313852+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -2395,7 +2395,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:52.705786+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:56.576463+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2419,7 +2419,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:52.705786+00:00",
+      "last_http_check_at": "2026-10-22T17:07:56.576463+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -2491,7 +2491,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:52.867377+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:56.830729+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2515,7 +2515,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:52.867377+00:00",
+      "last_http_check_at": "2026-10-22T17:07:56.830729+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -2587,7 +2587,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:52.977847+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:56.961030+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2611,7 +2611,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:52.977847+00:00",
+      "last_http_check_at": "2026-10-22T17:07:56.961030+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -2652,7 +2652,7 @@
       "verification_color": "green",
       "verification_note": "Automated HTTP/content check passed; no definitive closure signal found.",
       "source_group": "Original 30",
-      "last_checked_iso": "2026-10-22T04:39:53.277281+00:00",
+      "last_checked_iso": "2026-10-22T17:07:57.123089+00:00",
       "last_checked_display": "Sep 7, 2026 · 3:40 PM CT",
       "job_id": "DG-028",
       "source_wave": "Original 30",
@@ -2678,12 +2678,12 @@
       "audit_timestamp": "2026-09-07T15:40:00-05:00",
       "record_audited_at": "2026-09-07T15:40:00-05:00",
       "posting_status": "OPEN_VERIFIED",
-      "status_checked_at": "2026-10-22T04:39:53.277281+00:00",
+      "status_checked_at": "2026-10-22T17:07:57.123089+00:00",
       "status_check_source": "GitHub Action HTTP/content check",
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:53.277281+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:57.123089+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2707,7 +2707,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:53.277281+00:00",
+      "last_http_check_at": "2026-10-22T17:07:57.123089+00:00",
       "last_http_status": 200,
       "auto_check_state": "OPEN_HTTP_OK"
     },
@@ -2779,7 +2779,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:53.956287+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:57.883819+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2803,7 +2803,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:53.956287+00:00",
+      "last_http_check_at": "2026-10-22T17:07:57.883819+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -2876,7 +2876,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:54.136135+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:58.024135+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2900,7 +2900,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:54.136135+00:00",
+      "last_http_check_at": "2026-10-22T17:07:58.024135+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -2973,7 +2973,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:54.392455+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:58.160602+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -2997,7 +2997,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:54.392455+00:00",
+      "last_http_check_at": "2026-10-22T17:07:58.160602+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3070,7 +3070,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:54.514601+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:58.308805+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3094,7 +3094,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:54.514601+00:00",
+      "last_http_check_at": "2026-10-22T17:07:58.308805+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3167,7 +3167,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:54.809401+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:58.532914+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3191,7 +3191,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:54.809401+00:00",
+      "last_http_check_at": "2026-10-22T17:07:58.532914+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3264,7 +3264,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:54.980619+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:58.661520+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3288,7 +3288,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:54.980619+00:00",
+      "last_http_check_at": "2026-10-22T17:07:58.661520+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3361,7 +3361,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:55.159447+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:58.803597+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3385,7 +3385,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:55.159447+00:00",
+      "last_http_check_at": "2026-10-22T17:07:58.803597+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3458,7 +3458,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:55.438588+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:58.934934+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3482,7 +3482,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:55.438588+00:00",
+      "last_http_check_at": "2026-10-22T17:07:58.934934+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3555,7 +3555,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:55.552021+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:59.065535+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3579,7 +3579,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:55.552021+00:00",
+      "last_http_check_at": "2026-10-22T17:07:59.065535+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3652,7 +3652,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:55.666505+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:59.189301+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3676,7 +3676,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:55.666505+00:00",
+      "last_http_check_at": "2026-10-22T17:07:59.189301+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3749,7 +3749,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:55.856685+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:59.535451+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3773,7 +3773,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:55.856685+00:00",
+      "last_http_check_at": "2026-10-22T17:07:59.535451+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3846,7 +3846,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:56.128137+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:59.667088+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3870,7 +3870,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:56.128137+00:00",
+      "last_http_check_at": "2026-10-22T17:07:59.667088+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -3943,7 +3943,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:56.288214+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:07:59.902059+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -3967,7 +3967,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:56.288214+00:00",
+      "last_http_check_at": "2026-10-22T17:07:59.902059+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4040,7 +4040,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:56.403021+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:00.029180+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4064,7 +4064,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:56.403021+00:00",
+      "last_http_check_at": "2026-10-22T17:08:00.029180+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4137,7 +4137,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:56.588972+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:00.172541+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4161,7 +4161,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:56.588972+00:00",
+      "last_http_check_at": "2026-10-22T17:08:00.172541+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4234,7 +4234,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:56.774390+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:00.375632+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4258,7 +4258,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:56.774390+00:00",
+      "last_http_check_at": "2026-10-22T17:08:00.375632+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4331,7 +4331,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:56.926743+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:00.540705+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4355,7 +4355,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:56.926743+00:00",
+      "last_http_check_at": "2026-10-22T17:08:00.540705+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4429,7 +4429,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:57.038706+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:00.677659+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4453,7 +4453,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:57.038706+00:00",
+      "last_http_check_at": "2026-10-22T17:08:00.677659+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4527,7 +4527,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:57.210611+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:00.908176+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4551,7 +4551,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:57.210611+00:00",
+      "last_http_check_at": "2026-10-22T17:08:00.908176+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4624,7 +4624,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:57.391995+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:01.108567+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4648,7 +4648,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:57.391995+00:00",
+      "last_http_check_at": "2026-10-22T17:08:01.108567+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4722,7 +4722,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:57.588265+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:01.375104+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4746,7 +4746,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:57.588265+00:00",
+      "last_http_check_at": "2026-10-22T17:08:01.375104+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4819,7 +4819,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:57.751851+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:01.681425+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4843,7 +4843,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:57.751851+00:00",
+      "last_http_check_at": "2026-10-22T17:08:01.681425+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -4916,7 +4916,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:57.964363+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:01.874111+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -4940,7 +4940,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:57.964363+00:00",
+      "last_http_check_at": "2026-10-22T17:08:01.874111+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -5013,7 +5013,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:58.147736+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:02.099214+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -5037,7 +5037,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:58.147736+00:00",
+      "last_http_check_at": "2026-10-22T17:08:02.099214+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -5111,7 +5111,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:58.322747+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:02.303009+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -5135,7 +5135,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:58.322747+00:00",
+      "last_http_check_at": "2026-10-22T17:08:02.303009+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -5208,7 +5208,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:58.479156+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:02.535127+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -5232,7 +5232,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:58.479156+00:00",
+      "last_http_check_at": "2026-10-22T17:08:02.535127+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -5305,7 +5305,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:58.642397+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:02.797448+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -5329,7 +5329,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:58.642397+00:00",
+      "last_http_check_at": "2026-10-22T17:08:02.797448+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -5403,7 +5403,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:58.819880+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:02.990098+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -5427,7 +5427,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:58.819880+00:00",
+      "last_http_check_at": "2026-10-22T17:08:02.990098+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -5501,7 +5501,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:58.985749+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:03.223362+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -5525,7 +5525,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:58.985749+00:00",
+      "last_http_check_at": "2026-10-22T17:08:03.223362+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -5598,7 +5598,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:59.202721+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:03.467895+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -5622,7 +5622,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:59.202721+00:00",
+      "last_http_check_at": "2026-10-22T17:08:03.467895+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -5695,7 +5695,7 @@
       "audit_schedule_kind": "OPEN_PRIORITY",
       "audit_cadence_days": 1,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:59.385012+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:03.675830+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -5719,7 +5719,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:59.385012+00:00",
+      "last_http_check_at": "2026-10-22T17:08:03.675830+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     },
@@ -5792,7 +5792,7 @@
       "audit_schedule_kind": "OPEN_SELECTIVE",
       "audit_cadence_days": 3,
       "scheduler_build_timestamp": "2026-09-07T18:02:00-05:00",
-      "scheduler_last_run_at": "2026-10-22T04:39:59.447053+00:00",
+      "scheduler_last_run_at": "2026-10-22T17:08:03.741557+00:00",
       "zombie": false,
       "zombie_business_days": null,
       "posting_status_history": [
@@ -5816,7 +5816,7 @@
       "last_contact_date": "",
       "follow_up_date": "",
       "interview_stage_notes": "",
-      "last_http_check_at": "2026-10-22T04:39:59.447053+00:00",
+      "last_http_check_at": "2026-10-22T17:08:03.741557+00:00",
       "last_http_status": 403,
       "auto_check_state": "BLOCKED_403"
     }
